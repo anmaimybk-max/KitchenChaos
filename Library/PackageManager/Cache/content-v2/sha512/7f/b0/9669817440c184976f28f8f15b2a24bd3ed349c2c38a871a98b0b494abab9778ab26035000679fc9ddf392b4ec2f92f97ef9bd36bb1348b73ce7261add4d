@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-1PIq5lr6zD/cF9p+747tnDsz8Hp2mngByubNO8wI3/Q=","packageName":"com.unity.netcode.gameobjects","packageVersion":"2.13.3","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

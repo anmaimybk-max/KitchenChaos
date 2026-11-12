@@ -1,0 +1,217 @@
+[2026-11-04T09:50:48.046Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.7f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 25464 --ipc-path Unity-Upm-25464 -l 2 --log-file 'C:\\Users\\WIN 11\\Desktop\\KitchenChaos/Logs/upm.log'
+[2026-11-04T09:50:48.111Z][INFO] IPC server started (IPC path=Unity-Upm-25464).
+[2026-11-04T09:50:48.112Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-25464.
+[2026-11-04T09:50:54.335Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T09:50:54.872Z][INFO] project:list-packages --> 200 (537 ms)
+[2026-11-04T09:50:55.422Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T09:50:55.433Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T09:50:55.439Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-11-04T09:50:55.477Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-11-04T09:50:55.486Z][INFO] project:list-packages --> 200 (64 ms)
+[2026-11-04T09:50:55.500Z][INFO] project:update-dependencies --> 200 (23 ms)
+[2026-11-04T09:50:55.535Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-11-04T09:51:10.225Z][INFO] project:resolve-packages --> 200 (14690 ms)
+[2026-11-04T09:51:50.788Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T09:51:50.841Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T09:51:51.231Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T09:51:51.311Z][INFO] config:project:get-registries --> 200 (80 ms)
+[2026-11-04T09:51:51.356Z][INFO] project:list-packages --> 200 (568 ms)
+[2026-11-04T09:51:51.357Z][INFO] project:list-packages --> 200 (516 ms)
+[2026-11-04T09:51:55.302Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T09:51:55.434Z][INFO] project:list-packages --> 200 (132 ms)
+[2026-11-04T09:51:55.573Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T09:51:55.688Z][INFO] project:list-packages --> 200 (115 ms)
+[2026-11-04T09:52:00.075Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T09:52:03.075Z][INFO] project:list-packages --> 200 (3001 ms)
+[2026-11-04T10:25:58.225Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:25:58.231Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-11-04T10:25:58.252Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-11-04T10:25:58.261Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:25:59.602Z][INFO] Downloading package [com.unity.package-manager.metadata-6000.6@0.0.100] from registry 'https://packages.unity.com'
+[2026-11-04T10:26:02.146Z][INFO] Finished downloading package [com.unity.package-manager.metadata-6000.6@0.0.100] from registry 'https://packages.unity.com' (size: 11.5 kB, time: 2.5s)
+[2026-11-04T10:26:06.903Z][INFO] packages:get-all-packageinfo --> 200 (8651 ms)
+[2026-11-04T10:26:08.011Z][INFO] project:list-packages --> 200 (9787 ms)
+[2026-11-04T10:26:08.012Z][INFO] project:list-packages --> 200 (9751 ms)
+[2026-11-04T10:26:08.439Z][INFO] packages:get-all-packageinfo --> 200 (10208 ms)
+[2026-11-04T10:26:08.637Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.addressables@2.11.2"
+}
+[2026-11-04T10:26:08.652Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ads.ios-support@1.0.1"
+}
+[2026-11-04T10:26:08.662Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.memoryprofiler@1.1.12"
+}
+[2026-11-04T10:26:08.671Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.project-auditor-rules@1.0.3"
+}
+[2026-11-04T10:26:08.686Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.scriptablebuildpipeline@3.0.3"
+}
+[2026-11-04T10:26:08.700Z][INFO] packages:get-packageinfo --> 200 (63 ms)
+[2026-11-04T10:26:08.700Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.androidxr-openxr@1.4.2"
+}
+[2026-11-04T10:26:08.715Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arcore@6.6.2"
+}
+[2026-11-04T10:26:08.727Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arfoundation@6.6.2"
+}
+[2026-11-04T10:26:08.735Z][INFO] packages:get-packageinfo --> 200 (64 ms)
+[2026-11-04T10:26:08.735Z][INFO] packages:get-packageinfo --> 200 (83 ms)
+[2026-11-04T10:26:08.738Z][INFO] packages:get-packageinfo --> 200 (76 ms)
+[2026-11-04T10:26:08.739Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arkit@6.6.2"
+}
+[2026-11-04T10:26:08.755Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.hands@1.9.0"
+}
+[2026-11-04T10:26:08.769Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.interaction.toolkit@3.6.1"
+}
+[2026-11-04T10:26:08.785Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.openxr@1.18.0"
+}
+[2026-11-04T10:26:08.787Z][INFO] packages:get-packageinfo --> 200 (87 ms)
+[2026-11-04T10:26:08.788Z][INFO] packages:get-packageinfo --> 200 (102 ms)
+[2026-11-04T10:26:08.795Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.moderation@1.0.2"
+}
+[2026-11-04T10:26:08.822Z][INFO] packages:get-packageinfo --> 200 (95 ms)
+[2026-11-04T10:26:08.824Z][INFO] packages:get-packageinfo --> 200 (109 ms)
+[2026-11-04T10:26:08.836Z][INFO] packages:get-packageinfo --> 200 (97 ms)
+[2026-11-04T10:26:08.840Z][INFO] packages:get-packageinfo --> 200 (85 ms)
+[2026-11-04T10:26:08.841Z][INFO] packages:get-packageinfo --> 200 (46 ms)
+[2026-11-04T10:26:08.845Z][INFO] packages:get-packageinfo --> 200 (60 ms)
+[2026-11-04T10:26:08.847Z][INFO] packages:get-packageinfo --> 200 (78 ms)
+[2026-11-04T10:28:45.753Z][INFO] project:add-remove-dependencies <-- Request received
+params: {}
+[2026-11-04T10:28:51.511Z][INFO] project:add-remove-dependencies --> 200 (5758 ms)
+[2026-11-04T10:28:51.579Z][INFO] project:add-remove-dependencies <-- Request received
+params: {}
+[2026-11-04T10:28:51.681Z][INFO] project:add-remove-dependencies --> 200 (102 ms)
+[2026-11-04T10:28:51.788Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-11-04T10:28:51.874Z][WARN] Requested version [1.11.4] for package [com.unity.nuget.mono-cecil] overridden by minimum version [1.11.6].
+[2026-11-04T10:28:51.875Z][INFO] project:resolve-packages --> 200 (87 ms)
+[2026-11-04T10:28:51.961Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T10:28:51.964Z][INFO] config:project:get-registries --> 200 (3 ms)
+[2026-11-04T10:28:51.971Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:28:52.140Z][INFO] project:list-packages --> 200 (169 ms)
+[2026-11-04T10:29:26.714Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:29:26.771Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:29:26.942Z][INFO] project:list-packages --> 200 (228 ms)
+[2026-11-04T10:29:27.004Z][INFO] project:list-packages --> 200 (233 ms)
+[2026-11-04T10:29:27.483Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T10:29:27.489Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-11-04T10:29:30.286Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:29:30.446Z][INFO] project:list-packages --> 200 (160 ms)
+[2026-11-04T10:30:02.316Z][INFO] project:add-remove-dependencies <-- Request received
+params: {}
+[2026-11-04T10:30:06.982Z][INFO] Downloading package [com.unity.services.multiplayer@2.4.1] from registry 'https://packages.unity.com'
+[2026-11-04T10:30:06.984Z][INFO] Downloading package [com.unity.services.qos@1.5.1] from registry 'https://packages.unity.com'
+[2026-11-04T10:30:06.986Z][INFO] Downloading package [com.unity.services.core@1.18.0] from registry 'https://packages.unity.com'
+[2026-11-04T10:30:06.987Z][INFO] Downloading package [com.unity.services.wire@1.6.0] from registry 'https://packages.unity.com'
+[2026-11-04T10:30:06.988Z][INFO] Downloading package [com.unity.services.deployment@1.7.2] from registry 'https://packages.unity.com'
+[2026-11-04T10:30:06.990Z][INFO] Downloading package [com.unity.services.authentication@3.8.0] from registry 'https://packages.unity.com'
+[2026-11-04T10:30:06.993Z][INFO] Downloading package [com.unity.services.deployment.api@1.1.3] from registry 'https://packages.unity.com'
+[2026-11-04T10:30:08.107Z][INFO] Finished downloading package [com.unity.services.deployment.api@1.1.3] from registry 'https://packages.unity.com' (size: 27.1 kB, time: 1.1s)
+[2026-11-04T10:30:08.199Z][INFO] Finished downloading package [com.unity.services.qos@1.5.1] from registry 'https://packages.unity.com' (size: 84.4 kB, time: 1.2s)
+[2026-11-04T10:30:08.819Z][INFO] Finished downloading package [com.unity.services.deployment@1.7.2] from registry 'https://packages.unity.com' (size: 215 kB, time: 1.8s)
+[2026-11-04T10:30:08.820Z][INFO] Finished downloading package [com.unity.services.core@1.18.0] from registry 'https://packages.unity.com' (size: 267 kB, time: 1.8s)
+[2026-11-04T10:30:08.825Z][INFO] Finished downloading package [com.unity.services.authentication@3.8.0] from registry 'https://packages.unity.com' (size: 220 kB, time: 1.8s)
+[2026-11-04T10:30:08.830Z][INFO] Finished downloading package [com.unity.services.wire@1.6.0] from registry 'https://packages.unity.com' (size: 324 kB, time: 1.8s)
+[2026-11-04T10:30:08.943Z][INFO] Finished downloading package [com.unity.services.multiplayer@2.4.1] from registry 'https://packages.unity.com' (size: 517 kB, time: 1.9s)
+[2026-11-04T10:30:18.863Z][INFO] project:add-remove-dependencies --> 200 (16547 ms)
+[2026-11-04T10:30:18.949Z][INFO] project:add-remove-dependencies <-- Request received
+params: {}
+[2026-11-04T10:30:19.353Z][INFO] project:add-remove-dependencies --> 200 (404 ms)
+[2026-11-04T10:30:19.493Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-11-04T10:30:19.851Z][WARN] Requested version [1.5.1] for package [com.unity.services.wire] overridden by minimum version [1.6.0].
+[2026-11-04T10:30:19.851Z][WARN] Requested version [1.11.4] for package [com.unity.nuget.mono-cecil] overridden by minimum version [1.11.6].
+[2026-11-04T10:30:19.851Z][WARN] Requested version [1.1.2] for package [com.unity.services.deployment.api] overridden by minimum version [1.1.3].
+[2026-11-04T10:30:19.853Z][INFO] project:resolve-packages --> 200 (360 ms)
+[2026-11-04T10:30:19.969Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T10:30:19.975Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-11-04T10:30:19.983Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:30:20.427Z][INFO] project:list-packages --> 200 (444 ms)
+[2026-11-04T10:31:09.159Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:31:09.188Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:31:09.365Z][INFO] project:list-packages --> 200 (206 ms)
+[2026-11-04T10:31:09.379Z][INFO] project:list-packages --> 200 (191 ms)
+[2026-11-04T10:31:09.649Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T10:31:09.652Z][INFO] config:project:get-registries --> 200 (3 ms)
+[2026-11-04T10:31:12.216Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:31:12.435Z][INFO] project:list-packages --> 200 (219 ms)
+[2026-11-04T10:31:28.963Z][INFO] project:add-remove-dependencies <-- Request received
+params: {}
+[2026-11-04T10:31:32.423Z][INFO] project:add-remove-dependencies --> 200 (3460 ms)
+[2026-11-04T10:31:32.500Z][INFO] project:add-remove-dependencies <-- Request received
+params: {}
+[2026-11-04T10:31:32.661Z][INFO] project:add-remove-dependencies --> 200 (161 ms)
+[2026-11-04T10:31:32.767Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-11-04T10:31:32.902Z][WARN] Requested version [1.5.1] for package [com.unity.services.wire] overridden by minimum version [1.6.0].
+[2026-11-04T10:31:32.902Z][WARN] Requested version [1.11.4] for package [com.unity.nuget.mono-cecil] overridden by minimum version [1.11.6].
+[2026-11-04T10:31:32.902Z][WARN] Requested version [1.1.2] for package [com.unity.services.deployment.api] overridden by minimum version [1.1.3].
+[2026-11-04T10:31:32.903Z][INFO] project:resolve-packages --> 200 (136 ms)
+[2026-11-04T10:31:32.992Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T10:31:32.996Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-11-04T10:31:33.007Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:31:33.253Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:31:33.261Z][INFO] project:list-packages --> 200 (254 ms)
+[2026-11-04T10:31:33.379Z][INFO] project:list-packages --> 200 (126 ms)
+[2026-11-04T10:31:34.858Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:31:34.955Z][INFO] project:list-packages --> 200 (96 ms)
+[2026-11-04T10:31:35.053Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-04T10:31:35.141Z][INFO] project:list-packages --> 200 (88 ms)
+[2026-11-04T10:31:35.447Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-04T10:31:35.450Z][INFO] config:project:get-registries --> 200 (3 ms)

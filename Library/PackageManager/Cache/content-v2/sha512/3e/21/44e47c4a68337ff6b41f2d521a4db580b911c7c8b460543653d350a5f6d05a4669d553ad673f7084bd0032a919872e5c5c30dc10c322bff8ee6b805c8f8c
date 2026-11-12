@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-Gj+BasMmISLumMg98h6HI0ccfCdCDjnDXqbI+oguP4E=","packageName":"com.unity.services.deployment","packageVersion":"1.7.2","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

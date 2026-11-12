@@ -1,0 +1,8 @@
+{
+  "name": "com.unity.multiplayer.playmode",
+  "displayName": "Multiplayer Play Mode",
+  "version": "3.0.0",
+  "description": "Multiplayer Play Mode is a feature that enables multiple editor instances to be opened simultaneously on the same development device.",
+  "dependencies": {},
+  "_fingerprint": "29d317c343beca4ee53216c138a9288ec2433398"
+}
