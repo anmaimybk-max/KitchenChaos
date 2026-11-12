@@ -1,1 +1,0 @@
-{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-36YamWnN6/LtRmJlJmXO4SM0RfIDMuWBn/oF503ccjQ=","packageName":"com.unity.services.qos","packageVersion":"1.5.1","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

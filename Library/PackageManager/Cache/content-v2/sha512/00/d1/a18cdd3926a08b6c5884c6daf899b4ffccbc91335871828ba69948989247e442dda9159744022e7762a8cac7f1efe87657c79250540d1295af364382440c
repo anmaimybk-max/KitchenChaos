@@ -1,1 +1,0 @@
-{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-EC3YMUBphKA3NMPRMKhTr3SOI/xtQR8FeW9XPEAZays=","packageName":"com.unity.services.authentication","packageVersion":"3.8.0","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}
