@@ -30,4 +30,7 @@ Thumbs.db
 Desktop.ini
 
 # Keep Assets (including .meta), Packages and ProjectSettings tracked.
-# Keep the GDD, documentation and source assets tracked.
+# Keep the GDD and source assets tracked.
+
+# Local working documentation; prepare the final report later.
+/[Dd]ocs/
